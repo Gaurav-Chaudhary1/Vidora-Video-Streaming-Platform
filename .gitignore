@@ -1,0 +1,39 @@
+# IDE files
+.idea/
+*.iml
+.DS_Store
+
+# Gradle & build
+.gradle/
+build/
+*/build/
+.externalNativeBuild/
+.cxx/
+
+# Android Studio files
+local.properties
+captures/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Logs & crash reports
+*.log
+
+# OS generated files
+Thumbs.db
+
+# Generated files
+*.apk
+*.aab
+
+# Android Navigation Editor & Asset Wizard
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Workspace-specific files
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
